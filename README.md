@@ -4,7 +4,7 @@
 
 
 # 사용 기술
-- android java socket HttpURLConnection WebRtc 
+- android java, java socket, HttpURLConnection, WebRtc 
 
 ----
 
